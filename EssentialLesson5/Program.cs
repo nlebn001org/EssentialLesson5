@@ -28,9 +28,6 @@ namespace EssentialLesson5
                 Console.WriteLine();
 
             }
-
-
-
         }
     }
 }

@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EssentialLesson5Task4
 {
     class Article
     {
-
         string productName;
         string storeName;
         double price;
@@ -37,6 +32,5 @@ namespace EssentialLesson5Task4
         {
             Console.WriteLine($"Product is: {ProductName}, Store is: {StoreName}, Price is: {Price}");
         }
-
     }
 }

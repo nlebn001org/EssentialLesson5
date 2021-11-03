@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace EssentialLesson5Task1
+﻿namespace EssentialLesson5Task1
 {
     class Dictionary
     {
